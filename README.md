@@ -1,2 +1,2 @@
 # Test
-Testity test test [https://bing.com](TEST)
+Testity test test [TEST](https://bing.com)
