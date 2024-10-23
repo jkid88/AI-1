@@ -1,3 +1,3 @@
 # Clicky Clicky Part B
 [DuckDuckGo](https://duckduckgo.com)
-[ProxyLand](coming soon)
+[ByPassi](https://bypassi.com)
