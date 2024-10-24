@@ -9,3 +9,7 @@
 
 [C](chrome://about)
 [T](https://hebisd.instructure.com/login/saml)
+
+[ChruchyRoll](https://www.crunchyroll.com)
+
+[a](runoff.modelmywatershed.com)
