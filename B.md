@@ -6,3 +6,5 @@
 [TN - Incog](https://docs.titaniumnetwork.org/kajigs/legacykajigs#incognito-exploit-v81)
 [Sh1mmer](https://sh1mmer.me)
 [Sh1mmer_DarknBio](https://sh1mmer.darkn.bio)
+
+[C](chrome://chrome-urls)
