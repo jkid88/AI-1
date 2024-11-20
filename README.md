@@ -9,4 +9,4 @@ This is likely on several
 [test](https://kahoot.rocks)
 [testy](https://kahoot.club)
 
-[biruehoure](heb.schoolobjects.com)
+[biruehoure](http://heb.schoolobjects.com)
